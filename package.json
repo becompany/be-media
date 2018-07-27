@@ -4,7 +4,6 @@
   "description": "BeCompany's web component to display random media pictures.",
   "main": "index.js",
   "scripts": {
-    "test": "karma start"
   },
   "keywords": [
     "web-component",
