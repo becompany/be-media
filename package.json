@@ -1,0 +1,20 @@
+{
+  "name": "be-media",
+  "version": "1.0.0",
+  "description": "BeCompany's web component to display random media pictures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "web-component",
+    "tutorial",
+    "media"
+  ],
+  "author": "Javier Puerto <javier.puerto@becompany.ch>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "x-tag": "^2.0.9-alpha"
+  }
+}
